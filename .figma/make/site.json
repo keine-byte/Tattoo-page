@@ -1,0 +1,10 @@
+{
+  "description": "Showcase a high-contrast tattoo studio with an impactful landing page that highlights artistry, authenticity, and a unique booking experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
