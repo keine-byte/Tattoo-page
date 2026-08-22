@@ -1,7 +1,9 @@
 {
-  "description": "Showcase a high-contrast tattoo studio with an impactful landing page that highlights artistry, authenticity, and a unique booking experience.",
+  "title": "Tinta Negra Tattoo",
+  "language": "es",
+  "description": "Estudio de tatuajes Tinta Negra Tattoo. Arte sobre piel, estilo bajo cero. Cita previa obligatoria.",
   "robots": {
-    "index": false
+    "index": true
   },
   "accessibility": {
     "addBypassLinks": false,
