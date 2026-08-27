@@ -1,15 +1,11 @@
 import t1 from '@/imports/tatuajes/1.jpg'
-import t2 from '@/imports/tatuajes/2.jpg'
 import t3 from '@/imports/tatuajes/3.jpg'
-import t4 from '@/imports/tatuajes/4.jpg'
 import t5 from '@/imports/tatuajes/5.jpg'
 import t6 from '@/imports/tatuajes/6.jpg'
 
 const GALLERY_ITEMS = [
   { url: t1, alt: 'Tatuaje estilo Tradicional Minimalista', tall: true },
-  { url: t2, alt: 'Tatuaje estilo Tradicional Minimalista', tall: false },
   { url: t3, alt: 'Tatuaje estilo Tradicional Minimalista', tall: false },
-  { url: t4, alt: 'Tatuaje estilo Tradicional Minimalista', tall: true },
   { url: t5, alt: 'Tatuaje estilo Tradicional Minimalista', tall: false },
   { url: t6, alt: 'Tatuaje estilo Tradicional Minimalista', tall: false },
 ]
