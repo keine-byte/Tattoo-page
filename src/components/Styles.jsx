@@ -1,8 +1,8 @@
-import t7 from '@/imports/tatuajes/7.webp'
+import t2 from '@/imports/tatuajes/2.jpg'
 
 const STYLE = {
   name: 'TRADICIONAL MINIMALISTA',
-  img: t7,
+  img: t2,
   desc: 'Líneas limpias y trazo depurado que fusionan la base del tatuaje tradicional con una estética sobria, elegante y minimalista. Piezas atemporales, sin ruido, hechas para durar.',
 }
 
