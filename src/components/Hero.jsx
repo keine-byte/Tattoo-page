@@ -1,8 +1,12 @@
+import t1 from '@/imports/tatuajes/1.jpg'
+import t3 from '@/imports/tatuajes/3.jpg'
+import t5 from '@/imports/tatuajes/5.jpg'
+
 export default function Hero() {
   const FEATURED = [
-    { url: 'https://images.unsplash.com/photo-1568515045052-f9a854d70bfd?w=400&h=500&fit=crop&auto=format', label: 'BLACKWORK' },
-    { url: 'https://images.unsplash.com/photo-1605647533135-51b5906087d0?w=400&h=500&fit=crop&auto=format', label: 'NEO-JAPONÉS' },
-    { url: 'https://images.unsplash.com/photo-1567071208639-716c1009517d?w=400&h=500&fit=crop&auto=format', label: 'DOTWORK' },
+    { url: t1, label: 'TRADICIONAL MINIMALISTA' },
+    { url: t3, label: 'TRADICIONAL MINIMALISTA' },
+    { url: t5, label: 'TRADICIONAL MINIMALISTA' },
   ]
 
   return (

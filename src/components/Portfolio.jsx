@@ -1,10 +1,17 @@
+import t1 from '@/imports/tatuajes/1.jpg'
+import t2 from '@/imports/tatuajes/2.jpg'
+import t3 from '@/imports/tatuajes/3.jpg'
+import t4 from '@/imports/tatuajes/4.jpg'
+import t5 from '@/imports/tatuajes/5.jpg'
+import t6 from '@/imports/tatuajes/6.jpg'
+
 const GALLERY_ITEMS = [
-  { url: 'https://images.unsplash.com/photo-1568515045052-f9a854d70bfd?w=600&h=750&fit=crop&auto=format', alt: 'Tatuaje estilo Tradicional Minimalista', tall: true },
-  { url: 'https://images.unsplash.com/photo-1552627019-947c3789ffb5?w=600&h=450&fit=crop&auto=format', alt: 'Tatuaje estilo Tradicional Minimalista', tall: false },
-  { url: 'https://images.unsplash.com/photo-1605647533135-51b5906087d0?w=600&h=450&fit=crop&auto=format', alt: 'Tatuaje estilo Tradicional Minimalista', tall: false },
-  { url: 'https://images.unsplash.com/photo-1565058379802-bbe93b2f703a?w=600&h=750&fit=crop&auto=format', alt: 'Tatuaje estilo Tradicional Minimalista', tall: true },
-  { url: 'https://images.unsplash.com/photo-1567071208639-716c1009517d?w=600&h=450&fit=crop&auto=format', alt: 'Tatuaje estilo Tradicional Minimalista', tall: false },
-  { url: 'https://images.unsplash.com/photo-1575495407752-bfb6fb0518bf?w=600&h=450&fit=crop&auto=format', alt: 'Tatuaje estilo Tradicional Minimalista', tall: false },
+  { url: t1, alt: 'Tatuaje estilo Tradicional Minimalista', tall: true },
+  { url: t2, alt: 'Tatuaje estilo Tradicional Minimalista', tall: false },
+  { url: t3, alt: 'Tatuaje estilo Tradicional Minimalista', tall: false },
+  { url: t4, alt: 'Tatuaje estilo Tradicional Minimalista', tall: true },
+  { url: t5, alt: 'Tatuaje estilo Tradicional Minimalista', tall: false },
+  { url: t6, alt: 'Tatuaje estilo Tradicional Minimalista', tall: false },
 ]
 
 export default function Portfolio() {
