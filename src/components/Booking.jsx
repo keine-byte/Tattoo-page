@@ -5,14 +5,14 @@ const BOOKING_ITEMS = [
     id: 0,
     title: 'PIEZAS PEQUEÑAS',
     size: 'hasta 5cm',
-    price: 'desde €80',
+    price: 'desde $50.000',
     detail: 'Ideal para primeras piezas o detalles precisos. Incluye consulta previa, diseño personalizado y una sesión de retoque.',
   },
   {
     id: 1,
     title: 'PIEZAS MEDIANAS',
     size: '5–15cm',
-    price: 'desde €180',
+    price: 'desde $80.000',
     detail: 'El rango donde el arte se despliega. Diseño exclusivo adaptado a tu anatomía. Tiempo estimado: 2–4 horas.',
   },
   {
