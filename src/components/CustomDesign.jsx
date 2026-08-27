@@ -53,13 +53,7 @@ export default function CustomDesign() {
           <label className="block md:col-span-2">
             <span className="font-inter text-xs tracking-[0.2em] uppercase text-[#5A5A5A]">Estilo preferido</span>
             <select className="mt-1 w-full bg-transparent border-b border-[#0A0A0A]/40 py-3 font-inter text-[#0A0A0A] outline-none focus:border-[#B00000]">
-              <option>Tradicional</option>
-              <option>Fine Line</option>
-              <option>Neo-Japonés</option>
-              <option>Blackwork</option>
-              <option>Dotwork</option>
-              <option>Tribal</option>
-              <option>Aún no lo sé</option>
+              <option>Tradicional Minimalista</option>
             </select>
           </label>
 

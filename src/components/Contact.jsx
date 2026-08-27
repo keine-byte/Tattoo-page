@@ -1,6 +1,6 @@
 const HOURS = [
-  { day: 'Martes – Viernes', time: '8:00 – 12:00 - 14:00 - 19:00' },
-  { day: 'Sábado - Domingo', time: '8:00 – 12:00 - 14:00 - 19:00' },
+  { day: 'Martes – Viernes', time: '8:00 – 12:00, 14:00 - 19:00' },
+  { day: 'Sábado - Domingo', time: '8:00 – 12:00, 14:00 - 19:00' },
 ]
 
 export default function Contact() {
@@ -59,7 +59,7 @@ export default function Contact() {
           <div className="border border-[#5A5A5A]/30 p-6 mb-4">
             <p className="font-bebas text-lg tracking-[0.2em] text-[#B00000] mb-2">UBICACIÓN</p>
             <p className="font-inter font-light text-sm leading-relaxed text-[#F7F5F0]">
-              Barrio El Porvenir, Sincelejo - Sucre<br />100001 Sincelejo, Colombia<br />CRA 37 # 13-94
+              Barrio El Porvenir, Sincelejo - Sucre<br />70001 Sincelejo, Colombia<br />CRA 37 # 13-94
             </p>
           </div>
 
