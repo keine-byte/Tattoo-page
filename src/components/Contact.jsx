@@ -1,7 +1,6 @@
 const HOURS = [
-  { day: 'Martes – Viernes', time: '11:00 – 20:00' },
-  { day: 'Sábado', time: '11:00 – 18:00' },
-  { day: 'Lunes y Domingo', time: 'Cerrado' },
+  { day: 'Martes – Viernes', time: '8:00 – 12:00 - 14:00 - 19:00' },
+  { day: 'Sábado - Domingo', time: '8:00 – 12:00 - 14:00 - 19:00' },
 ]
 
 export default function Contact() {
@@ -39,9 +38,10 @@ export default function Contact() {
           {/* Redes sociales */}
           <div className="flex flex-wrap gap-4 mt-8">
             {[
-              { label: 'Instagram', href: '#' },
-              { label: 'WhatsApp', href: '#' },
-              { label: 'Email', href: 'mailto:hola@tintanegra.com' },
+              { label: 'Instagram', href: 'https://www.instagram.com/tinta_negra_tattoo_13?igsh=ZmprYWQyOGs3aGIy' },
+              { label: 'WhatsApp', href: 'https://wa.me/573002441004' },
+              { label: 'Facebook', href: 'https://www.facebook.com/profile.php?id=100078020472130' },
+              { label: 'Email', href: 'mailto:diegoberrio1630@gmail.com' },
             ].map((s) => (
               <a
                 key={s.label}
@@ -59,7 +59,7 @@ export default function Contact() {
           <div className="border border-[#5A5A5A]/30 p-6 mb-4">
             <p className="font-bebas text-lg tracking-[0.2em] text-[#B00000] mb-2">UBICACIÓN</p>
             <p className="font-inter font-light text-sm leading-relaxed text-[#F7F5F0]">
-              Calle de la Tinta 13, Centro<br />28001 Madrid, España
+              Barrio El Porvenir, Sincelejo - Sucre<br />100001 Sincelejo, Colombia<br />CRA 37 # 13-94
             </p>
           </div>
 

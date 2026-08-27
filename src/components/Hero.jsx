@@ -53,16 +53,10 @@ export default function Hero() {
           </h1>
 
           <div className="flex items-baseline leading-[0.88] -mt-2 md:-mt-4">
-            <span className="font-bebas text-[clamp(5rem,18vw,18rem)] text-[#F7F5F0] tracking-[0.04em]">NEGR</span>
-            <span
-              className="font-bebas text-[clamp(3.5rem,12vw,12rem)] text-[#B00000] ml-2 md:ml-4"
-              style={{ marginBottom: '-0.05em' }}
-            >
-              a
-            </span>
+            <span className="font-bebas text-[clamp(5rem,18vw,18rem)] text-[#F7F5F0] tracking-[0.04em]">NEGRA</span>
           </div>
 
-          <div className="self-end -mt-1 md:-mt-2">
+          <div className="-mt-1 md:-mt-2">
             <span className="font-abril text-[clamp(2.5rem,8vw,8rem)] text-[#F7F5F0] tracking-tight leading-none">
               TATTOO
             </span>
